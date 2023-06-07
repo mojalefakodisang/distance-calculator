@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1686097440 source:c:\users\mojalefa kodisang\documents\programming\distanceconvertor\main.c
+	<stdio.h>
+	<stdlib.h>
+
